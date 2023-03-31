@@ -32,7 +32,11 @@
 
 
 
+[![log1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1997&show_icons=true&theme=shades-of-purple)](https://github.com/LOG1997/LOG1997)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=log1997&" alt="log1997" /></p>
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1997)](https://github.com/log1997/log1997)
 
-
-[![log1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1997&show_icons=true&theme=shades-of-purple)](https://github.com/LOG1997/LOG1997)<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=log1997&" alt="log1997" /></span>
