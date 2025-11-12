@@ -23,18 +23,14 @@
     />
 </p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <div align=center>
     <h2>💖Stats💖</h2>
     <img
-        height="150px"
-        src="https://streak-stats.demolab.com?user=log1997&theme=algolia"
-        alt="algolia"
-    />
-    </br>
-    <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=log1997&theme=algolia"
+        alt="log1997"
+    />
+    <img
+        src="./profile-3d-contrib/profile-night-rainbow.svg"
         alt="log1997"
     />
     <img
